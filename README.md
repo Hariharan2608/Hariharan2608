@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hariharan</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
+# 💫 About Me:
+🔭 As a data-driven professional with proficiency in Python, machine learning, deep learning basics, Excel, data visualization and cleaning, Streamlit. I am passionate about leveraging my skills to drive insights and inform decision-making. <br>👨‍💻My interests include exploring cloud services, servers, cybersecurity, AI, social media trends and staying up-to-date with the latest tech news<br>🌱 I’m currently learning deep learning and cybersecurity for developing knowledge on various field.<br>
+
+![Cat typing on computer](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
+![Alt Text](https://i.gifer.com/En1y.gif)
+
+- 📫 Reach me with **hariharanmh20@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harihar65017214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harihar65017214" height="30" width="40" /></a>
