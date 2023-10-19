@@ -6,8 +6,9 @@
 </p>
 
 # 💫 About Me:
-🔭 As a data-driven professional with proficiency in Python, machine learning, deep learning basics, Excel, data visualization and cleaning, Streamlit. I am passionate about leveraging my skills to drive insights and inform decision-making 
-<br>👨‍💻My interests include exploring cloud services, servers, cybersecurity, AI, social media trends and staying up-to-date with the latest tech news.<br>🌱 I’m currently learning deep learning and cybersecurity for developing knowledge on various field.<br>
+🔭 As a data-driven professional with proficiency in Python, machine learning, deep learning basics, Excel, data visualization and cleaning, Streamlit. I am passionate about leveraging my skills to drive insights and inform decision-making .
+<br>👨‍💻My interests include exploring cloud services, servers, cybersecurity, AI, social media trends and staying up-to-date with the latest tech news.<be>
+🌱 I’m currently learning deep learning and cybersecurity for developing knowledge on various field.<br>
 
 
 # 👨‍💻 My Portfolio
